@@ -28,5 +28,4 @@ public class Insert {
 		System.out.println("positioned at: "+left);
 
 	}
-
 }
